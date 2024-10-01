@@ -1,0 +1,8 @@
+slot_hover_background - слот сохранения при наведении
+slot_idle_background - слот сохранения в обычном состоянии
+check_selected_foreground - состоянии pushup кнопок
+radio_selected_foreground - пока что отвечает за режим экрана
+horizontal_hover_bar - ползунок настроек при наведении
+horizontal_idle_bar - ползунок в состоянии покоя
+horizontal_hover_thumb - палка ползунка при наведении
+horizontal_idle_thumb - палка ползунка в состоянии покоя
