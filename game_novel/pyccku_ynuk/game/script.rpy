@@ -2,6 +2,8 @@
 
 # Определение персонажей игры.
 define e = Character('Эйлин', color="#c8ffc8")
+define config.mouse = {"default" : [("gui/cursors/pointer.png", 0, 0)]}
+
 
 # Вместо использования оператора image можете просто
 # складывать все ваши файлы изображений в папку images.
