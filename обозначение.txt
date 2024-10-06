@@ -6,3 +6,6 @@ horizontal_hover_bar - ползунок настроек при наведени
 horizontal_idle_bar - ползунок в состоянии покоя
 horizontal_hover_thumb - палка ползунка при наведении
 horizontal_idle_thumb - палка ползунка в состоянии покоя
+
+game/gui/overlay/main_menu.png - панель на главной экране с разделами
+game/gui/overlay/game_menu.png - экран в момент переключения на другой раздел
