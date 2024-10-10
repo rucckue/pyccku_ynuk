@@ -5,5 +5,6 @@
 - IdlePython
 - PyCharm
 - Audacity
+
 Ссылка на первую тест версию, с маленькими изменениями - https://disk.yandex.ru/d/FcNiwT2xxuOSDQ
 Тестовая мобильная версия - https://disk.yandex.ru/d/voHc9U8YMCyWNA
