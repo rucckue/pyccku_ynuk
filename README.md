@@ -18,3 +18,7 @@ The final project for the subject "Introduction to Professional Activity" will b
 
 Link to the first test version, with minor changes- https://disk.yandex.ru/d/FcNiwT2xxuOSDQ
 Test mobile version - https://disk.yandex.ru/d/voHc9U8YMCyWNA
+
+
+Uploading показ main_menu.mp4…
+
