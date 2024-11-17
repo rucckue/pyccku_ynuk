@@ -20,3 +20,7 @@ Link to the first test version, with minor changes- https://disk.yandex.ru/d/FcN
 Test mobile version - https://disk.yandex.ru/d/voHc9U8YMCyWNA
 
 
+
+
+https://github.com/user-attachments/assets/b3ca5a0f-411f-46fa-aab6-3997bcedea5b
+
