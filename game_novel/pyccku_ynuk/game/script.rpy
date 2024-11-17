@@ -5,6 +5,7 @@ define gg = Character('Слава', color="#c8ffc8")# метка для репл
 define kira = Character('Кира', color="#9966FF")# метка для реплик Киры
 define kiril = Character('Кирилл', color="#999999")# метка для реплик Кирила
 define nikita = Character('Никита', color="#0066CC")# метка для реплик Никиты
+define vitya = Character('Витя', color="#fc3903")#метка для реплик Вити
 define ? = Character('?', color="#999999")# метка для реплик ПЕРСОНАЖЕЙ КОГДА МЫ ИХ ЕЩЕ НЕ ЗНАЕМ
 define t1 = Character('Учитель1', color="#FFFAFA")# метка для реплик учителя информатики
 define t2 = Character('Учитель2', color="#FFFAFA")# метка для реплик учителя физики
