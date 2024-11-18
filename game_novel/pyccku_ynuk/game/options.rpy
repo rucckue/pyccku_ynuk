@@ -50,6 +50,8 @@ define config.has_sound = True
 define config.has_music = True
 define config.has_voice = True
 
+label splashscreen:
+    $ renpy.movie_cutscene('videos/intro.ogv')
 
 ## Чтобы разрешить игроку тестировать громкость на звуковом или голосовом
 ## каналах, раскомментируйте строчку и настройте пример звука для прослушивания.
