@@ -14,7 +14,9 @@ define t4 = Character('Учитель4', color="#FFFAFA")# метка для р�
 define t5 = Character('Скаляр Валерий Григорьевич', color="#FFFAFA")# метка для реплик учителя математики
 define config.mouse = {"default" : [("gui/cursors/pointer.png", 0, 0)]}
 
-
+#Музыка(СНАЧАЛА ИНИЦИАЛИЗИРОВАТЬ!!!!):
+define audio.sadsymphony1 = "musics/sadsymphony1.mp3"
+define audio.melancholic = "musics/melancholic.ogg"
 
 # Вместо использования оператора image можете просто
 # складывать все ваши файлы изображений в папку images.
@@ -24,7 +26,10 @@ define config.mouse = {"default" : [("gui/cursors/pointer.png", 0, 0)]}
 # Игра начинается здесь:
 label start:
 
-    scene bg room
+    play music melancholic
+    
+    scene blackcitybg
+    with fade
 
     show blackcitybg #здесь я вижу какой-нибуть темный бг города из окна, или темный потолок комнаты гг
 
