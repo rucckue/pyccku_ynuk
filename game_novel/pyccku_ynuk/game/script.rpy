@@ -28,7 +28,7 @@ label start:
 
     play music melancholic
     
-    scene blackcitybg
+    scene blackcitybg_darken #норм?
     with fade
 
     #show это для персонажа, my bad
