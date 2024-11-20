@@ -9,7 +9,7 @@
 Ссылка на первую тест версию, с маленькими изменениями - https://disk.yandex.ru/d/FcNiwT2xxuOSDQ
 Тестовая мобильная версия - https://disk.yandex.ru/d/voHc9U8YMCyWNA
 
-https://vk.com/video472958732_456239672?list=ln-ByjfW0RZ5h4oZRkBZA
+https://vkvideo.ru/video472958732_456239673
 (так как гитхаб позволяет заливать видео лишь до 10 МБ, заливаю на ВК)
 
 The final project for the subject "Introduction to Professional Activity" will be a game called "Student Time: The Crossroad of Life". This game will have the genre "Visual Novel" and is developed on the Ren'Py game engine. Ren'Py depends on a number of modules written in Python and Cython. We considered this engine to be the most optimal option compared to other development environments. The visual style of the game will include photos from real life. As a plot, the first week of a student who came to study from a village and enrolled on a commercial basis will be told. Currently, we are in the process of mastering the engine itself and improving our skills in game development. As a concept, we are considering an option with 2 endings and the development of interaction with secondary characters. Stack :
