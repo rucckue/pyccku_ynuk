@@ -3,7 +3,7 @@
 Стек : 
 - Работа над 2D графикой в Adobe Photoshop и онлайн ресурсах
 - Сценарий в Word и WordPad
-- Написание кода в NotePad++,PyCharm
+- Написание кода в NotePad++,PyCharm, Visaul Studio Code
 - Запись и редактирование звука в Audacity
 
 Ссылка на первую тест версию, с маленькими изменениями - https://disk.yandex.ru/d/FcNiwT2xxuOSDQ
@@ -16,7 +16,7 @@ The final project for the subject "Introduction to Professional Activity" will b
 
 - Working on 2D graphics in Adobe Photoshop and other online resourses
 - Scripting in Word and WordPad
-- Writing code in NotePad++, PyCharm
+- Writing code in NotePad++, PyCharm, Visual Studio Code
 - Recording and editing audio in Audacity
 
 Link to the first test version, with minor changes- https://disk.yandex.ru/d/FcNiwT2xxuOSDQ
