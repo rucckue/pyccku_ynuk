@@ -6,7 +6,7 @@
 - Написание кода в NotePad++,PyCharm, Visaul Studio Code
 - Запись и редактирование звука в Audacity
 
-Скачать тут -> https://disk.yandex.ru/d/hWnIz-FD32QUbw (итерактивная версия)
+Скачать тут -> https://disk.yandex.ru/d/EXMjiMlLliexKg (итерактивная версия)
 Скачать тут -> https://disk.yandex.ru/d/iMQD-sdNq4T3JQ (другой взгляд на новеллу)
 
 Тестовая мобильная версия - https://disk.yandex.ru/d/voHc9U8YMCyWNA
